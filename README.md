@@ -23,7 +23,7 @@ You may need to adjust the CUDA version.
 
 Another option is:
 ```bash
-pip install -e git+https://github.com/ml-jku/clamp.git
+pip install -e git+https://github.com/ml-jku/clamp.git#egg=clamp
 ```
 
 ## :fire: Use a pretrained CLAMP model
